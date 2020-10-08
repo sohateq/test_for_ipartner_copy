@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Заметки Камеко А.И.</string>
+
+
+    <string name="jeans_title">Заметки</string>
+    <string name="text_counter_1">Найдено: %d заметка</string>
+    <string name="text_counter_2_to_4">Найдено: %d заметки</string>
+    <string name="text_counter_5_to_10">Найдено: %d заметок</string>
+
+    <string name="button_text_launch_create_note_fragment">Добавить</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="button_create_note">Создать заметку</string>
+
+    <string name="text_date_created">Создано %s</string>
+    <string name="text_date_changed">Изменено %s</string>
+
+    <string name="text_network_error_dialog">Ошибка загрузки. Проверьте соединение с сетью.</string>
+    <string name="text_update_data">Обновить данные</string>
+    <string name="label_main_fragment">Заметки</string>
+    <string name="label_detail_fragment">Подробности</string>
+    <string name="label_create_note_fragment">Новая заметка</string>
+    <string name="menu_add">Добавить</string>
+
+
+</resources>
